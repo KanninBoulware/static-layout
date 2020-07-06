@@ -1,0 +1,105 @@
+body{
+    background: url("https://cdn.hipwallpaper.com/i/98/21/dUyCkp.jpg");
+    }
+   
+   
+   .redButton {
+       height: 35px;
+       width: 80px;
+       background-color: #e50914;
+       float: right;
+       border-radius: 7%;
+       margin-right: 15px;
+       margin-top: 15px;
+       border-radius: 3px;
+       border-color: transparent;
+       cursor: pointer;
+       
+   
+   }
+   .signIn{
+       color: white;
+       margin: initial;
+       font-size: medium;
+       font-weight: 400;
+       font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+       text-align: center;
+       
+   }
+   .logo{
+       size: 100px;
+       resize: both;
+       margin-left: 30px;
+       
+   }
+   .unlimited{
+       font-weight: bold;
+       font-size: 60px;
+       text-align: center;
+       color: white;
+       margin-top: 150px;
+       margin-left: 400px;
+       margin-right: 400px;
+       margin-bottom: 0px;
+       font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+       
+   }
+   .cancel{
+       font-size: 27px;
+       text-align: center;
+       color: white;
+       margin-left: 400px;
+       margin-right: 400px;
+       font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+   }
+   .textBox{
+       text-align: center;
+       margin-left: 400px;
+       margin-right: 400px;
+       max-width: 300px;
+       height: 100px;
+       font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+     flex: auto;
+   }
+   textarea{
+       height: 70px;
+       font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+   }
+   
+   .emailAndTrial{
+   display: flex;
+   width: 900px;
+   
+   }
+   
+   .freeTrialButton{
+   width: 400px;
+   height: 76px;
+   background-color: #e50914;
+   border-color: transparent;
+   cursor: pointer;
+   
+   }
+   
+   .freeTrial{
+       color: white;
+       margin: initial;
+       font-size: medium;
+       font-weight: 400;
+       font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+       text-align: center;
+       font-weight: bold;
+       font-size: x-large;
+   }
+   .ready{
+       font-size: 24px;
+       text-align: center;
+       color: white;
+       margin-left: 300px;
+       margin-right: 300px;
+       font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+   }
+
+   .line1{
+    
+   }
